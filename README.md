@@ -2,12 +2,8 @@
 
 <p align="justify">I create visually stunning websites and graphic designs for your company, and I also develop them. Graphic design and web development professional with extensive experience in both fields. In my professional capacity as a graphic designer and web developer, my daily routine consists of creating visually stunning graphics in Photoshop and developing payment-processing websites for my customers.</p>
 
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCxS4jkG-jl5jsolJkPkMigQ?style=social"><img src="https://komarev.com/ghpvc/?username=samirusandeepa&color=blue" alt="samirusandeepa" />
-
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCxS4jkG-jl5jsolJkPkMigQ?style=social">
+<img src="https://komarev.com/ghpvc/?username=samirusandeepa&color=blue" alt="samirusandeepa" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/samirusandeepa/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samirusandeepa/)
@@ -21,4 +17,4 @@ You can use the website to generate badges: https://shields.io/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirusandeepa&layout=compact&langs_count=8&theme=light)
 
-<!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
+<!-- This readme was created by Yasiru Tishan - https://github.com/samirusandeepa -->
