@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I create visually stunning websites and graphic designs for your company, and I also develop them. Graphic design and web development professional with extensive experience in both fields. In my professional capacity as a graphic designer and web developer, my daily routine consists of creating visually stunning graphics in Photoshop and developing payment-processing websites for my customers.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirusandeepa)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
