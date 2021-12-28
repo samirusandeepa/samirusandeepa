@@ -17,4 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirusandeepa&layout=compact&langs_count=8&theme=light)
 
-<!-- This readme was created by Yasiru Tishan - https://github.com/samirusandeepa -->
+<!-- This readme was created by Samiru Sandeepa - https://github.com/samirusandeepa -->
