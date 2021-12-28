@@ -1,19 +1,35 @@
-### Hi there 👋
+## Hi 👋, I'm Samiru Sandeepa, A Graphic Designer & Web Developer
 
-I create visually stunning websites and graphic designs for your company, and I also develop them. Graphic design and web development professional with extensive experience in both fields. In my professional capacity as a graphic designer and web developer, my daily routine consists of creating visually stunning graphics in Photoshop and developing payment-processing websites for my customers.
+<p align="justify">I create visually stunning websites and graphic designs for your company, and I also develop them. Graphic design and web development professional with extensive experience in both fields. In my professional capacity as a graphic designer and web developer, my daily routine consists of creating visually stunning graphics in Photoshop and developing payment-processing websites for my customers.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirusandeepa)](https://github.com/anuraghazra/github-readme-stats)
+![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
+<img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirusandeepa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yairutishan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasirutishan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yasiru.tishan/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tishansilva91@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yasirutishan@outlook.com)
+
+<!-- Talking about me -->
+
+![My Ftacebook Bacnner Template](https://user-images.githubusercontent.com/85503750/138105230-4e8934bb-c1ca-4f02-805e-2f177613b438.jpg)
+
+<p align="justify"> I am a creative professional with extensive graphic design, web development, and project management. I am also good at multitasking and working under duress. I am an enthusiastic, confident character and goal-oriented team leader and counts on interpersonal skills and organizational planning as a critical strength. My experience in IT is attached to the technology industry, architectural, corporate sectors, and designer positions.</p>
+
+![UntitEWRWEled-1](https://user-images.githubusercontent.com/85503750/138106201-56c42153-8f95-4ae2-b583-38b4df5617ca.png)
+
+
+![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirutishan&" alt="yasirutishan" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirutishan&layout=compact&langs_count=8&theme=light)
+
+<!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
