@@ -15,13 +15,10 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samirusandeepa72@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:samirusandeepa@outlook.com)
 
-![UntitEWRWEled-1](https://user-images.githubusercontent.com/85503750/138106201-56c42153-8f95-4ae2-b583-38b4df5617ca.png)
+![Samiru's github stats](https://github-readme-stats.vercel.app/api?username=samirusandeepa&layout=compact&langs_count=8&theme=light)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirusandeepa&" alt="samirusandeepa"></p>
 
-![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirutishan&" alt="yasirutishan" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirutishan&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirusandeepa&layout=compact&langs_count=8&theme=light)
 
 <!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
